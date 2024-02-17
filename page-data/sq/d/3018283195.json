@@ -1,1 +1,230 @@
-{"data":{"wordPress":{"menus":{"edges":[{"node":{"name":"Footer navigation","slug":"footer-navigation","menuItems":{"edges":[{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"home","title":"Home"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"work","title":"Work"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"services","title":"Services"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"agency","title":"Agency"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"blog","title":"Blog"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"contact","title":"Contact"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"faqs","title":"FAQs"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"privacy-policy-2","title":"Privacy Policy"}}}]}}},{"node":{"name":"Footer secondary navigation","slug":"footer-secondary-navigation","menuItems":{"edges":[{"node":{"connectedObject":{"__typename":"WordPress_Landing","slug":"hospitality","title":"Hospitality"}}},{"node":{"connectedObject":{"__typename":"WordPress_Landing","slug":"property-and-architecture","title":"Property and Architecture"}}},{"node":{"connectedObject":{"__typename":"WordPress_Landing","slug":"film-and-tv-production","title":"Film and Television"}}},{"node":{"connectedObject":{"__typename":"WordPress_Landing","slug":"b2b","title":"Business to Business"}}}]}}},{"node":{"name":"Mini Menu","slug":"mini-menu","menuItems":{"edges":[{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"work","title":"Work"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"contact","title":"Contact"}}}]}}},{"node":{"name":"Primary Menu","slug":"primary-menu","menuItems":{"edges":[{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"work","title":"Work"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"services","title":"Services"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"agency","title":"Agency"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"blog","title":"Blog"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"contact","title":"Contact"}}},{"node":{"connectedObject":{"__typename":"WordPress_Page","slug":"careers","title":"Careers"}}}]}}},{"node":{"name":"Services Nav","slug":"services-nav","menuItems":{"edges":[{"node":{"connectedObject":{"__typename":"WordPress_Service"}}},{"node":{"connectedObject":{"__typename":"WordPress_Service"}}},{"node":{"connectedObject":{"__typename":"WordPress_Service"}}},{"node":{"connectedObject":{"__typename":"WordPress_Service"}}},{"node":{"connectedObject":{"__typename":"WordPress_Service"}}},{"node":{"connectedObject":{"__typename":"WordPress_Service"}}}]}}}]},"globalOptions":{"optionFields":{"logo":{"imageWhite":{"sourceUrl":"https://content.kota.co.uk/app/uploads/2020/01/Kota_logo_white-1.svg","mediaItemId":1823,"modified":"2020-01-07 11:07:42","altText":"","imageFile":{"publicURL":"/static/b3e82ee47e00b0eb4227f5194c493261/Kota_logo_white-1.svg"}}},"contactInfos":{"labelLondon":"London","labelNyc":"New York","address":"KOTA\r\n1-5 Clerkenwell Road\r\nLondon\r\nEC1M 5PA","directionLink":"https://www.google.com/maps/place/Kota+-+Creative+Digital+Agency/@51.5231438,-0.0988209,15z/data=!4m5!3m4!1s0x0:0xb707536e55f4be4d!8m2!3d51.5231438!4d-0.0988209","directionText":"Get Directions","email":"hello@kota.co.uk","facebookLink":"https://www.facebook.com/kotacreative/","instagramLink":"https://www.instagram.com/kotalondon","linkedinLink":"https://www.linkedin.com/company/kota-creative/","phone":"+44(0)20 3951 0562","twitterLink":"https://twitter.com/kotacreative"},"footer":{"backgroundImage":{"sourceUrl":"https://content.kota.co.uk/app/uploads/2019/11/bg-nav@2x.jpg","mediaItemId":279,"modified":"2019-11-20 10:23:40","imageFile":{"childImageSharp":{"fluid":{"aspectRatio":1.694915254237288,"src":"/static/f64dd26419d83cde0dfae68243e299e3/8c3c2/bg-nav%402x.jpg","srcSet":"/static/f64dd26419d83cde0dfae68243e299e3/15aed/bg-nav%402x.jpg 300w,\n/static/f64dd26419d83cde0dfae68243e299e3/a07a5/bg-nav%402x.jpg 600w,\n/static/f64dd26419d83cde0dfae68243e299e3/8c3c2/bg-nav%402x.jpg 1200w,\n/static/f64dd26419d83cde0dfae68243e299e3/cd33f/bg-nav%402x.jpg 1800w,\n/static/f64dd26419d83cde0dfae68243e299e3/1c8c6/bg-nav%402x.jpg 2400w,\n/static/f64dd26419d83cde0dfae68243e299e3/df5b8/bg-nav%402x.jpg 2880w","srcWebp":"/static/f64dd26419d83cde0dfae68243e299e3/e7405/bg-nav%402x.webp","srcSetWebp":"/static/f64dd26419d83cde0dfae68243e299e3/4fec1/bg-nav%402x.webp 300w,\n/static/f64dd26419d83cde0dfae68243e299e3/483a3/bg-nav%402x.webp 600w,\n/static/f64dd26419d83cde0dfae68243e299e3/e7405/bg-nav%402x.webp 1200w,\n/static/f64dd26419d83cde0dfae68243e299e3/7f800/bg-nav%402x.webp 1800w,\n/static/f64dd26419d83cde0dfae68243e299e3/7acea/bg-nav%402x.webp 2400w,\n/static/f64dd26419d83cde0dfae68243e299e3/96733/bg-nav%402x.webp 2880w","sizes":"(max-width: 1200px) 100vw, 1200px"}}}},"logoList":[{"image":{"sourceUrl":"https://content.kota.co.uk/app/uploads/2019/12/dan-global-logo@2x.png","mediaItemId":1256,"modified":"2019-12-17 11:06:03","imageFile":{"childImageSharp":{"fluid":{"aspectRatio":3.0106382978723403,"src":"/static/1c105c0fd70500112d9787740facbfda/bb585/dan-global-logo%402x.png","srcSet":"/static/1c105c0fd70500112d9787740facbfda/bb585/dan-global-logo%402x.png 283w","srcWebp":"/static/1c105c0fd70500112d9787740facbfda/961c2/dan-global-logo%402x.webp","srcSetWebp":"/static/1c105c0fd70500112d9787740facbfda/961c2/dan-global-logo%402x.webp 283w","sizes":"(max-width: 283px) 100vw, 283px"}}}},"link":"https://digitalagencynetwork.com/agencies/london/"},{"image":{"sourceUrl":"https://content.kota.co.uk/app/uploads/2022/04/the-drum-logo.png","mediaItemId":4749,"modified":"2022-04-29 11:35:54","imageFile":{"childImageSharp":{"fluid":{"aspectRatio":3.6216216216216215,"src":"/static/33f6a75eb3916baabc3e8fb5c4729fe6/398aa/the-drum-logo.png","srcSet":"/static/33f6a75eb3916baabc3e8fb5c4729fe6/398aa/the-drum-logo.png 268w","srcWebp":"/static/33f6a75eb3916baabc3e8fb5c4729fe6/2e26c/the-drum-logo.webp","srcSetWebp":"/static/33f6a75eb3916baabc3e8fb5c4729fe6/2e26c/the-drum-logo.webp 268w","sizes":"(max-width: 268px) 100vw, 268px"}}}},"link":"https://www.recommendedagencies.com/kota/"},{"image":{"sourceUrl":"https://content.kota.co.uk/app/uploads/2019/12/glutch@2x.png","mediaItemId":1257,"modified":"2019-12-17 11:06:03","imageFile":{"childImageSharp":{"fluid":{"aspectRatio":2.403225806451613,"src":"/static/d7418a88bd49cc8789bca775d50b5625/e452a/glutch%402x.png","srcSet":"/static/d7418a88bd49cc8789bca775d50b5625/e452a/glutch%402x.png 149w","srcWebp":"/static/d7418a88bd49cc8789bca775d50b5625/418b4/glutch%402x.webp","srcSetWebp":"/static/d7418a88bd49cc8789bca775d50b5625/418b4/glutch%402x.webp 149w","sizes":"(max-width: 149px) 100vw, 149px"}}}},"link":"https://clutch.co/profile/kota#summary"},{"image":{"sourceUrl":"https://content.kota.co.uk/app/uploads/2019/12/awwwards-logo@2x.png","mediaItemId":1255,"modified":"2019-12-17 11:06:03","imageFile":{"childImageSharp":{"fluid":{"aspectRatio":4.852459016393443,"src":"/static/8c230afe22eb301df3182649c9820490/8b3e9/awwwards-logo%402x.png","srcSet":"/static/8c230afe22eb301df3182649c9820490/8b3e9/awwwards-logo%402x.png 296w","srcWebp":"/static/8c230afe22eb301df3182649c9820490/b5e75/awwwards-logo%402x.webp","srcSetWebp":"/static/8c230afe22eb301df3182649c9820490/b5e75/awwwards-logo%402x.webp 296w","sizes":"(max-width: 296px) 100vw, 296px"}}}},"link":"https://www.awwwards.com/kota/"},{"image":{"sourceUrl":"https://content.kota.co.uk/app/uploads/2020/02/css-design-awards-white.png","mediaItemId":2295,"modified":"2020-02-12 11:32:19","imageFile":{"childImageSharp":{"fluid":{"aspectRatio":2.9761904761904763,"src":"/static/19b14c7dc8f2b9c4c73cc9297ad1f85a/84249/css-design-awards-white.png","srcSet":"/static/19b14c7dc8f2b9c4c73cc9297ad1f85a/84249/css-design-awards-white.png 250w","srcWebp":"/static/19b14c7dc8f2b9c4c73cc9297ad1f85a/0271c/css-design-awards-white.webp","srcSetWebp":"/static/19b14c7dc8f2b9c4c73cc9297ad1f85a/0271c/css-design-awards-white.webp 250w","sizes":"(max-width: 250px) 100vw, 250px"}}}},"link":"https://www.cssdesignawards.com/search?search_term=kota+creative"}]}}}}}}
+{
+    "data": {
+        "wordPress": {
+            "menus": {
+                "edges": [
+                    {
+                        "node": {
+                            "name": "Footer navigation",
+                            "slug": "footer-navigation",
+                            "menuItems": {
+                                "edges": [
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "home", "title": "Home" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "work", "title": "Work" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "services", "title": "About Us" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "agency", "title": "Our Work" } } }
+                                   
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "Footer secondary navigation",
+                            "slug": "footer-secondary-navigation",
+                            "menuItems": {
+                                "edges": [
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Landing", "slug": "hospitality", "title": "Contact Us" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Landing", "slug": "property-and-architecture", "title": "Our Services" } } },
+                                   
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Landing", "slug": "b2b", "title": "Casino Provider" } } }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "Mini Menu",
+                            "slug": "mini-menu",
+                            "menuItems": {
+                                "edges": [
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "work", "title": "Work" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "contact", "title": "Contact" } } }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "Primary Menu",
+                            "slug": "primary-menu",
+                            "menuItems": {
+                                "edges": [
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "work", "title": "Work" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "services", "title": "Services" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "agency", "title": "Agency" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "blog", "title": "Blog" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "contact", "title": "Contact" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Page", "slug": "careers", "title": "Careers" } } }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "Services Nav",
+                            "slug": "services-nav",
+                            "menuItems": {
+                                "edges": [
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Service" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Service" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Service" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Service" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Service" } } },
+                                    { "node": { "connectedObject": { "__typename": "WordPress_Service" } } }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "globalOptions": {
+                "optionFields": {
+                    "logo": {
+                        "imageWhite": {
+                            "sourceUrl": "https://content.kota.co.uk/app/uploads/2020/01/Kota_logo_white-1.svg",
+                            "mediaItemId": 1823,
+                            "modified": "2020-01-07 11:07:42",
+                            "altText": "",
+                            "imageFile": { "publicURL": "/static/b3e82ee47e00b0eb4227f5194c493261/Kota_logo_white-1.svg" }
+                        }
+                    },
+                    "contactInfos": {
+                        "labelLondon": "London",
+                        "labelNyc": "New York",
+                        "address": "KOTA\r\n1-5 Clerkenwell Road\r\nLondon\r\nEC1M 5PA",
+                        "directionLink": "https://www.google.com/maps/place/Kota+-+Creative+Digital+Agency/@51.5231438,-0.0988209,15z/data=!4m5!3m4!1s0x0:0xb707536e55f4be4d!8m2!3d51.5231438!4d-0.0988209",
+                        "directionText": "Get Directions",
+                        "email": "hello@kota.co.uk",
+                        "facebookLink": "https://www.facebook.com/kotacreative/",
+                        "instagramLink": "https://www.instagram.com/kotalondon",
+                        "linkedinLink": "https://www.linkedin.com/company/kota-creative/",
+                        "phone": "+44(0)20 3951 0562",
+                        "twitterLink": "https://twitter.com/kotacreative"
+                    },
+                    "footer": {
+                        "backgroundImage": {
+                            "sourceUrl": "https://content.kota.co.uk/app/uploads/2019/11/bg-nav@2x.jpg",
+                            "mediaItemId": 279,
+                            "modified": "2019-11-20 10:23:40",
+                            "imageFile": {
+                                "childImageSharp": {
+                                    "fluid": {
+                                        "aspectRatio": 1.694915254237288,
+                                        "src": "/static/f64dd26419d83cde0dfae68243e299e3/8c3c2/bg-nav%402x.jpg",
+                                        "srcSet": "/static/f64dd26419d83cde0dfae68243e299e3/15aed/bg-nav%402x.jpg 300w,\n/static/f64dd26419d83cde0dfae68243e299e3/a07a5/bg-nav%402x.jpg 600w,\n/static/f64dd26419d83cde0dfae68243e299e3/8c3c2/bg-nav%402x.jpg 1200w,\n/static/f64dd26419d83cde0dfae68243e299e3/cd33f/bg-nav%402x.jpg 1800w,\n/static/f64dd26419d83cde0dfae68243e299e3/1c8c6/bg-nav%402x.jpg 2400w,\n/static/f64dd26419d83cde0dfae68243e299e3/df5b8/bg-nav%402x.jpg 2880w",
+                                        "srcWebp": "/static/f64dd26419d83cde0dfae68243e299e3/e7405/bg-nav%402x.webp",
+                                        "srcSetWebp": "/static/f64dd26419d83cde0dfae68243e299e3/4fec1/bg-nav%402x.webp 300w,\n/static/f64dd26419d83cde0dfae68243e299e3/483a3/bg-nav%402x.webp 600w,\n/static/f64dd26419d83cde0dfae68243e299e3/e7405/bg-nav%402x.webp 1200w,\n/static/f64dd26419d83cde0dfae68243e299e3/7f800/bg-nav%402x.webp 1800w,\n/static/f64dd26419d83cde0dfae68243e299e3/7acea/bg-nav%402x.webp 2400w,\n/static/f64dd26419d83cde0dfae68243e299e3/96733/bg-nav%402x.webp 2880w",
+                                        "sizes": "(max-width: 1200px) 100vw, 1200px"
+                                    }
+                                }
+                            }
+                        },
+                        "logoList": [
+                            {
+                                "image": {
+                                    "sourceUrl": "https://content.kota.co.uk/app/uploads/2019/12/dan-global-logo@2x.png",
+                                    "mediaItemId": 1256,
+                                    "modified": "2019-12-17 11:06:03",
+                                    "imageFile": {
+                                        "childImageSharp": {
+                                            "fluid": {
+                                                "aspectRatio": 3.0106382978723403,
+                                                "src": "/static/1c105c0fd70500112d9787740facbfda/bb585/dan-global-logo%402x.png",
+                                                "srcSet": "/static/1c105c0fd70500112d9787740facbfda/bb585/dan-global-logo%402x.png 283w",
+                                                "srcWebp": "/static/1c105c0fd70500112d9787740facbfda/961c2/dan-global-logo%402x.webp",
+                                                "srcSetWebp": "/static/1c105c0fd70500112d9787740facbfda/961c2/dan-global-logo%402x.webp 283w",
+                                                "sizes": "(max-width: 283px) 100vw, 283px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": "https://digitalagencynetwork.com/agencies/london/"
+                            },
+                            {
+                                "image": {
+                                    "sourceUrl": "https://content.kota.co.uk/app/uploads/2022/04/the-drum-logo.png",
+                                    "mediaItemId": 4749,
+                                    "modified": "2022-04-29 11:35:54",
+                                    "imageFile": {
+                                        "childImageSharp": {
+                                            "fluid": {
+                                                "aspectRatio": 3.6216216216216215,
+                                                "src": "/static/33f6a75eb3916baabc3e8fb5c4729fe6/398aa/the-drum-logo.png",
+                                                "srcSet": "/static/33f6a75eb3916baabc3e8fb5c4729fe6/398aa/the-drum-logo.png 268w",
+                                                "srcWebp": "/static/33f6a75eb3916baabc3e8fb5c4729fe6/2e26c/the-drum-logo.webp",
+                                                "srcSetWebp": "/static/33f6a75eb3916baabc3e8fb5c4729fe6/2e26c/the-drum-logo.webp 268w",
+                                                "sizes": "(max-width: 268px) 100vw, 268px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": "https://www.recommendedagencies.com/kota/"
+                            },
+                            {
+                                "image": {
+                                    "sourceUrl": "https://content.kota.co.uk/app/uploads/2019/12/glutch@2x.png",
+                                    "mediaItemId": 1257,
+                                    "modified": "2019-12-17 11:06:03",
+                                    "imageFile": {
+                                        "childImageSharp": {
+                                            "fluid": {
+                                                "aspectRatio": 2.403225806451613,
+                                                "src": "/static/d7418a88bd49cc8789bca775d50b5625/e452a/glutch%402x.png",
+                                                "srcSet": "/static/d7418a88bd49cc8789bca775d50b5625/e452a/glutch%402x.png 149w",
+                                                "srcWebp": "/static/d7418a88bd49cc8789bca775d50b5625/418b4/glutch%402x.webp",
+                                                "srcSetWebp": "/static/d7418a88bd49cc8789bca775d50b5625/418b4/glutch%402x.webp 149w",
+                                                "sizes": "(max-width: 149px) 100vw, 149px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": "https://clutch.co/profile/kota#summary"
+                            },
+                            {
+                                "image": {
+                                    "sourceUrl": "https://content.kota.co.uk/app/uploads/2019/12/awwwards-logo@2x.png",
+                                    "mediaItemId": 1255,
+                                    "modified": "2019-12-17 11:06:03",
+                                    "imageFile": {
+                                        "childImageSharp": {
+                                            "fluid": {
+                                                "aspectRatio": 4.852459016393443,
+                                                "src": "/static/8c230afe22eb301df3182649c9820490/8b3e9/awwwards-logo%402x.png",
+                                                "srcSet": "/static/8c230afe22eb301df3182649c9820490/8b3e9/awwwards-logo%402x.png 296w",
+                                                "srcWebp": "/static/8c230afe22eb301df3182649c9820490/b5e75/awwwards-logo%402x.webp",
+                                                "srcSetWebp": "/static/8c230afe22eb301df3182649c9820490/b5e75/awwwards-logo%402x.webp 296w",
+                                                "sizes": "(max-width: 296px) 100vw, 296px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": "https://www.awwwards.com/kota/"
+                            },
+                            {
+                                "image": {
+                                    "sourceUrl": "https://content.kota.co.uk/app/uploads/2020/02/css-design-awards-white.png",
+                                    "mediaItemId": 2295,
+                                    "modified": "2020-02-12 11:32:19",
+                                    "imageFile": {
+                                        "childImageSharp": {
+                                            "fluid": {
+                                                "aspectRatio": 2.9761904761904763,
+                                                "src": "/static/19b14c7dc8f2b9c4c73cc9297ad1f85a/84249/css-design-awards-white.png",
+                                                "srcSet": "/static/19b14c7dc8f2b9c4c73cc9297ad1f85a/84249/css-design-awards-white.png 250w",
+                                                "srcWebp": "/static/19b14c7dc8f2b9c4c73cc9297ad1f85a/0271c/css-design-awards-white.webp",
+                                                "srcSetWebp": "/static/19b14c7dc8f2b9c4c73cc9297ad1f85a/0271c/css-design-awards-white.webp 250w",
+                                                "sizes": "(max-width: 250px) 100vw, 250px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "link": "https://www.cssdesignawards.com/search?search_term=kota+creative"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

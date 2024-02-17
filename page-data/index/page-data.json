@@ -101,8 +101,8 @@
                             "statement": "<p>Our creative digital agency designs and develops bespoke websites with <strong>three things in mind;</strong></p>\n",
                             "statementList": [
                                 {
-                                    "text": "Trusted Betfair API Provider offering customizable B2B/B2C solutions with agent management, 24/7 support, and a successful track record in Bangladesh, with the option for Large Organizations to purchase underlying code for full platform control.",
-                                    "title": "Betting Exchange",
+                                    "text": "High-quality designs made by our creative team, giving your project a standout touch of excellence.",
+                                    "title": "Advanced Designs",
                                     "image": {
                                         "sourceUrl": "https://content.kota.co.uk/app/uploads/2022/04/homepage-lovebrands.jpeg",
                                         "mediaItemId": 4645,
@@ -121,8 +121,8 @@
                                     }
                                 },
                                 {
-                                    "text": "Introducing our iFrame solution, that can seamlessly integrate sports exchange with diverse sports options, fancy bets, and the option to add a casino feature for clients with existing sportsbooks and casinos.",
-                                    "title": "iFrame Solution",
+                                    "text": "Multiple payment methods are available. Customers can make payments through Net Banking, Bank Transfer, Paytm, Google Pay and more..",
+                                    "title": "Payment Methods",
                                     "image": {
                                         "sourceUrl": "https://content.kota.co.uk/app/uploads/2022/04/homepage-tribepad.jpeg",
                                         "mediaItemId": 4646,
@@ -141,8 +141,69 @@
                                     }
                                 },
                                 {
-                                    "text": "Offering a suite of APIs, including Live Sports Betting, Betfair, Live Sports TV & Scorecard, Fancy Odds & Results, Premium Fancy, Live Casinos, Horse Races, and Greyhound Races, providing developers access to real-time sports data, betting markets, live coverage, and specialized features.",
-                                    "title": "Sports Betting API",
+                                    "text": "Security is our Top priority, insuring that your data and information are kept safe and not share at any point.",
+                                    "title": "High Security",
+                                    "image": {
+                                        "sourceUrl": "https://content.kota.co.uk/app/uploads/2022/04/homepage-sym.jpeg",
+                                        "mediaItemId": 4647,
+                                        "imageFile": {
+                                            "childImageSharp": {
+                                                "fluid": {
+                                                    "aspectRatio": 1.5988372093023255,
+                                                    "src": "/static/20c5aabeac365aeabab5d842a1230881/90032/homepage-sym.jpg",
+                                                    "srcSet": "/static/20c5aabeac365aeabab5d842a1230881/a9d2c/homepage-sym.jpg 275w,\n/static/20c5aabeac365aeabab5d842a1230881/f8c88/homepage-sym.jpg 550w,\n/static/20c5aabeac365aeabab5d842a1230881/90032/homepage-sym.jpg 1100w,\n/static/20c5aabeac365aeabab5d842a1230881/eb442/homepage-sym.jpg 1144w",
+                                                    "srcWebp": "/static/20c5aabeac365aeabab5d842a1230881/8ae43/homepage-sym.webp",
+                                                    "srcSetWebp": "/static/20c5aabeac365aeabab5d842a1230881/1b2a2/homepage-sym.webp 275w,\n/static/20c5aabeac365aeabab5d842a1230881/1f6b5/homepage-sym.webp 550w,\n/static/20c5aabeac365aeabab5d842a1230881/8ae43/homepage-sym.webp 1100w,\n/static/20c5aabeac365aeabab5d842a1230881/17f62/homepage-sym.webp 1144w",
+                                                    "sizes": "(max-width: 1100px) 100vw, 1100px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+
+                                {
+                                    "text": "Transparency and accuracy are most important to us and our customers. We conduct business in the most transparent manner.",
+                                    "title": "100% Trusted Service",
+                                    "image": {
+                                        "sourceUrl": "https://content.kota.co.uk/app/uploads/2022/04/homepage-sym.jpeg",
+                                        "mediaItemId": 4647,
+                                        "imageFile": {
+                                            "childImageSharp": {
+                                                "fluid": {
+                                                    "aspectRatio": 1.5988372093023255,
+                                                    "src": "/static/20c5aabeac365aeabab5d842a1230881/90032/homepage-sym.jpg",
+                                                    "srcSet": "/static/20c5aabeac365aeabab5d842a1230881/a9d2c/homepage-sym.jpg 275w,\n/static/20c5aabeac365aeabab5d842a1230881/f8c88/homepage-sym.jpg 550w,\n/static/20c5aabeac365aeabab5d842a1230881/90032/homepage-sym.jpg 1100w,\n/static/20c5aabeac365aeabab5d842a1230881/eb442/homepage-sym.jpg 1144w",
+                                                    "srcWebp": "/static/20c5aabeac365aeabab5d842a1230881/8ae43/homepage-sym.webp",
+                                                    "srcSetWebp": "/static/20c5aabeac365aeabab5d842a1230881/1b2a2/homepage-sym.webp 275w,\n/static/20c5aabeac365aeabab5d842a1230881/1f6b5/homepage-sym.webp 550w,\n/static/20c5aabeac365aeabab5d842a1230881/8ae43/homepage-sym.webp 1100w,\n/static/20c5aabeac365aeabab5d842a1230881/17f62/homepage-sym.webp 1144w",
+                                                    "sizes": "(max-width: 1100px) 100vw, 1100px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "text": "We have a team of experts who are available 24/7 to assist you through WhatsApp chats.",
+                                    "title": "24 /7 Support",
+                                    "image": {
+                                        "sourceUrl": "https://content.kota.co.uk/app/uploads/2022/04/homepage-sym.jpeg",
+                                        "mediaItemId": 4647,
+                                        "imageFile": {
+                                            "childImageSharp": {
+                                                "fluid": {
+                                                    "aspectRatio": 1.5988372093023255,
+                                                    "src": "/static/20c5aabeac365aeabab5d842a1230881/90032/homepage-sym.jpg",
+                                                    "srcSet": "/static/20c5aabeac365aeabab5d842a1230881/a9d2c/homepage-sym.jpg 275w,\n/static/20c5aabeac365aeabab5d842a1230881/f8c88/homepage-sym.jpg 550w,\n/static/20c5aabeac365aeabab5d842a1230881/90032/homepage-sym.jpg 1100w,\n/static/20c5aabeac365aeabab5d842a1230881/eb442/homepage-sym.jpg 1144w",
+                                                    "srcWebp": "/static/20c5aabeac365aeabab5d842a1230881/8ae43/homepage-sym.webp",
+                                                    "srcSetWebp": "/static/20c5aabeac365aeabab5d842a1230881/1b2a2/homepage-sym.webp 275w,\n/static/20c5aabeac365aeabab5d842a1230881/1f6b5/homepage-sym.webp 550w,\n/static/20c5aabeac365aeabab5d842a1230881/8ae43/homepage-sym.webp 1100w,\n/static/20c5aabeac365aeabab5d842a1230881/17f62/homepage-sym.webp 1144w",
+                                                    "sizes": "(max-width: 1100px) 100vw, 1100px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "text": "We make sure everything is top-notch and meets the highest standards to give you the best quality service.",
+                                    "title": "Quality Assurance",
                                     "image": {
                                         "sourceUrl": "https://content.kota.co.uk/app/uploads/2022/04/homepage-sym.jpeg",
                                         "mediaItemId": 4647,
@@ -256,11 +317,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "wogan-coffee",
-                                    "categories": { "nodes": [{ "name": "Branding" }, { "name": "E-Commerce" }, { "name": "Marketing" }, { "name": "Video" }, { "name": "Web Design" }] },
+                                    "categories": { "nodes": [{ "name": "Business-to-Business (B2B) Solutions" }, { "name": "White label Solutions" }, { "name": "APIs" }, { "name": "Turnkey Solutions" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We completely transformed the image of Bristol's finest coffee company.",
-                                            "title": "Wogan Coffee",
+                                            "subtitle": "Looking for SKYEXCH White Label? We provide SKY Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "Skyexch",
                                             "image": {
                                                 "sourceUrl": "",
                                                 "mediaItemId": 5333,
@@ -296,11 +357,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "tangerine",
-                                    "categories": { "nodes": [{ "name": "Web Design" }, { "name": "Web Development" }] },
+                                    "categories": { "nodes": [{ "name": "Sportsbook Solutions" }, { "name": "White Label" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We took on the challenge of creating the new website for tangerine, a global design pioneer.",
-                                            "title": "tangerine",
+                                            "subtitle": "Looking for VELKI White Label? We provide VELKI Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "Velki",
                                             "image": {
                                                 "sourceUrl": "https://content.kota.co.uk/app/uploads/2021/09/featured-square.jpg",
                                                 "mediaItemId": 3851,
@@ -347,11 +408,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "super-yachts-monaco",
-                                    "categories": { "nodes": [{ "name": "Web Design" }, { "name": "Web Development" }] },
+                                    "categories": { "nodes": [{ "name": "Internation Casino" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We crafted a beautiful website for the boutique yacht brokerage, SuperYachtsMonaco.",
-                                            "title": "SuperYachtsMonaco",
+                                            "subtitle": "Looking for BABU365 White Label? We provide BABU Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "Babu365",
                                             "image": {
                                                 "sourceUrl": "https://content.kota.co.uk/app/uploads/2020/12/featured-square.jpg",
                                                 "mediaItemId": 2992,
@@ -398,11 +459,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "bellsant",
-                                    "categories": { "nodes": [{ "name": "Art Direction" }, { "name": "Branding" }, { "name": "Web Design" }, { "name": "Web Development" }] },
+                                    "categories": { "nodes": [{ "name": "Business-to-Business (B2B) Solutions" }, { "name": "White label Solutions" }, { "name": "APIs" }, { "name": "Turnkey Solutions" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We fully branded a pioneering healthcare concept in the USA.",
-                                            "title": "BellSant",
+                                            "subtitle": "Looking for CXWELCOME White Label? We provide CXWELCOME Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "Cxwelcome",
                                             "image": {
                                                 "sourceUrl": "https://content.kota.co.uk/app/uploads/2022/10/featured-square.jpg",
                                                 "mediaItemId": 5385,
@@ -449,11 +510,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "martin-building",
-                                    "categories": { "nodes": [{ "name": "Branding" }, { "name": "Web Design" }, { "name": "Web Development" }] },
+                                    "categories": { "nodes": [{ "name": "Whitelabel" }, { "name": "Sportbook Casino" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We created a cutting edge platform for San Francisco-based firm Martin Building.",
-                                            "title": "Martin Building",
+                                            "subtitle": "Looking for GULLYBET White Label? We provide GULLYBET Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "Gullybet",
                                             "image": {
                                                 "sourceUrl": "https://content.kota.co.uk/app/uploads/2020/09/featured-square.jpg",
                                                 "mediaItemId": 2795,
@@ -500,11 +561,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "bounce",
-                                    "categories": { "nodes": [{ "name": "Web Design" }, { "name": "Web Development" }] },
+                                    "categories": { "nodes": [{ "name": "APIs" }, { "name": "Turnkey Solutions" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We designed a highly animated and playful website for Bounce, the home of ping pong.",
-                                            "title": "Bounce",
+                                            "subtitle": "Looking for 9BAZI White Label? We provide 9BAZI Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "9Bazi",
                                             "image": {
                                                 "sourceUrl": "https://content.kota.co.uk/app/uploads/2021/07/featured-square.jpg",
                                                 "mediaItemId": 3569,
@@ -551,11 +612,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "littles-coffee",
-                                    "categories": { "nodes": [{ "name": "E-Commerce" }, { "name": "Web Design" }, { "name": "Web Development" }] },
+                                    "categories": { "nodes": [{ "name": "Betfair Odds" }, { "name": "Match Odds" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We designed an E-Commerce platform for Little's, a family run coffee business.",
-                                            "title": "Little's Coffee",
+                                            "subtitle": "Looking for AURA White Label? We provide AURA Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "Aura",
                                             "image": {
                                                 "sourceUrl": "https://content.kota.co.uk/app/uploads/2021/08/featured-square-2.jpg",
                                                 "mediaItemId": 3766,
@@ -602,11 +663,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "matchroom",
-                                    "categories": { "nodes": [{ "name": "E-Commerce" }, { "name": "Web Design" }, { "name": "Web Development" }] },
+                                    "categories": { "nodes": [{ "name": "soccer diamond" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We put the punch into one of the biggest sports promoters in the world.",
-                                            "title": "Matchroom",
+                                            "subtitle": "Looking for WORLD777 White Label? We provide WORLD777 Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "World777",
                                             "image": {
                                                 "sourceUrl": "https://content.kota.co.uk/app/uploads/2020/10/matchroom-thumbnail-square.jpg",
                                                 "mediaItemId": 2889,
@@ -653,11 +714,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "jamie-oliver-7-ways",
-                                    "categories": { "nodes": [{ "name": "Art Direction" }, { "name": "Marketing" }, { "name": "Video" }] },
+                                    "categories": { "nodes": [{ "name": "Iframe" }, { "name": "Live Tv API" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We created a campaign packed full of Sports Betting API for Jamie's new book, 7 Ways.",
-                                            "title": "Jamie Oliver - 7 Ways",
+                                            "subtitle": "Looking for DIAMOND White Label? We provide DIAMOND Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "Diamond",
                                             "image": {
                                                 "sourceUrl": "https://content.kota.co.uk/app/uploads/2020/08/jamie-square.jpg",
                                                 "mediaItemId": 2754,
@@ -704,11 +765,11 @@
                                 {
                                     "__typename": "WordPress_Project",
                                     "slug": "stoli-group",
-                                    "categories": { "nodes": [{ "name": "Branding" }, { "name": "Web Design" }, { "name": "Web Development" }] },
+                                    "categories": { "nodes": [{ "name": "Premium" }, { "name": "Non-Premium" }] },
                                     "workFields": {
                                         "featuredInfos": {
-                                            "subtitle": "We refined this brand's positioning in the premium alcoholic beverage market.",
-                                            "title": "Stoli Group",
+                                            "subtitle": "Looking for LOTUS White Label? We provide LOTUS Exchange type design for White Label Betting Exchange Solutions",
+                                            "title": "Lotus",
                                             "image": {
                                                 "sourceUrl": "https://content.kota.co.uk/app/uploads/2022/07/stoli-featured-square.jpg",
                                                 "mediaItemId": 5028,
