@@ -817,15 +817,15 @@
                         },
                         "client": { "smallTitle": "04. For", "title": "Our Clients" },
                         "articles": {
-                            "title": "Latest Articles",
+                            "title": "Our Services",
                             "smallTitle": "05. Read",
                             "list": [
                                 {
                                     "__typename": "WordPress_Post",
                                     "id": "cG9zdDo3MTcx",
-                                    "title": "Creating the KOTAverse to celebrate 10 years of KOTA",
+                                    "title": "Leading Betfair API provider in Bangladesh, offering customizable B2B/B2C solutions, agent management, 24/7 support, and the option for large organizations to purchase underlying code for full platform control.",
                                     "slug": "creating-the-kotaverse-to-celebrate-10-years-of-kota",
-                                    "blogFilters": { "edges": [{ "node": { "name": "Our Work" } }, { "node": { "name": "Studio" } }] },
+                                    "blogFilters": { "edges": [{ "node": { "name": "Betting Exchange" } }] },
                                     "blogFields": {
                                         "featuredInfos": {
                                             "title": "Creating the KOTAverse to celebrate 10 years of KOTA",
@@ -838,8 +838,8 @@
                                                     "childImageSharp": {
                                                         "fluid": {
                                                             "aspectRatio": 1.8691588785046729,
-                                                            "src": "/static/1fe8828d9ae790606dcc1f83dd8354cb/701ee/blog-header.jpg",
-                                                            "srcSet": "/static/1fe8828d9ae790606dcc1f83dd8354cb/3dcee/blog-header.jpg 200w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/ae6ae/blog-header.jpg 400w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/701ee/blog-header.jpg 800w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/8c3c2/blog-header.jpg 1200w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/c120e/blog-header.jpg 1600w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/46d45/blog-header.jpg 1928w",
+                                                            "src": "https://content.kota.co.uk/app/uploads/2024/01/blog-header.jpg",
+                                                            "srcSet": "../static/1fe8828d9ae790606dcc1f83dd8354cb/3dcee/blog-header.jpg 200w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/ae6ae/blog-header.jpg 400w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/701ee/blog-header.jpg 800w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/8c3c2/blog-header.jpg 1200w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/c120e/blog-header.jpg 1600w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/46d45/blog-header.jpg 1928w",
                                                             "srcWebp": "/static/1fe8828d9ae790606dcc1f83dd8354cb/2ad7f/blog-header.webp",
                                                             "srcSetWebp": "/static/1fe8828d9ae790606dcc1f83dd8354cb/1c9b5/blog-header.webp 200w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/f1752/blog-header.webp 400w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/2ad7f/blog-header.webp 800w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/e7405/blog-header.webp 1200w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/d3cba/blog-header.webp 1600w,\n/static/1fe8828d9ae790606dcc1f83dd8354cb/c1719/blog-header.webp 1928w",
                                                             "sizes": "(max-width: 800px) 100vw, 800px"
@@ -853,9 +853,9 @@
                                 {
                                     "__typename": "WordPress_Post",
                                     "id": "cG9zdDoyNDA2",
-                                    "title": "10 signs you probably need a new website.",
+                                    "title": "Introducing our seamless iFrame solution, integrating sports exchange, diverse sports options, fancy bets, and an optional casino feature for clients with existing sportsbooks and casinos.",
                                     "slug": "10-signs-you-probably-need-a-new-website",
-                                    "blogFilters": { "edges": [{ "node": { "name": "Expertise" } }] },
+                                    "blogFilters": { "edges": [{ "node": { "name": "iFrame Solution" } }] },
                                     "blogFields": {
                                         "featuredInfos": {
                                             "title": "10 signs you probably need a new website.",
@@ -883,9 +883,9 @@
                                 {
                                     "__typename": "WordPress_Post",
                                     "id": "cG9zdDozMjI5",
-                                    "title": "How long does it take to design and build a website?",
+                                    "title": "Providing a comprehensive suite of APIs, including Live Sports Betting, Betfair, Live Sports TV & Scorecard, Fancy Odds & Results, Premium Fancy, Live Casinos, Horse Races, and Greyhound Races, enabling developers to access real-time sports data, betting markets, live coverage, and specialized features.",
                                     "slug": "web-design-project-timing",
-                                    "blogFilters": { "edges": [{ "node": { "name": "Expertise" } }, { "node": { "name": "Studio" } }] },
+                                    "blogFilters": { "edges": [{ "node": { "name": "Expertise" } }, { "node": { "name": "Sports Betting API" } }] },
                                     "blogFields": {
                                         "featuredInfos": {
                                             "title": "How long does it take to design and build a website?",

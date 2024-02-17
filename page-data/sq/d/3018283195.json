@@ -90,8 +90,8 @@
                         }
                     },
                     "contactInfos": {
-                        "labelLondon": "London",
-                        "labelNyc": "New York",
+                        "labelLondon": "xxxxxxxxxx",
+                        "labelNyc": "",
                         "address": "KOTA\r\n1-5 Clerkenwell Road\r\nLondon\r\nEC1M 5PA",
                         "directionLink": "https://www.google.com/maps/place/Kota+-+Creative+Digital+Agency/@51.5231438,-0.0988209,15z/data=!4m5!3m4!1s0x0:0xb707536e55f4be4d!8m2!3d51.5231438!4d-0.0988209",
                         "directionText": "Get Directions",
